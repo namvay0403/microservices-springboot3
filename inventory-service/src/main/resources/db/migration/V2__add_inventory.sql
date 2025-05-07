@@ -1,0 +1,17 @@
+insert into inventory(quantity, sku_code)
+values (100, 'Iphone_16'),
+       (100, 'Iphone_15'),
+       (100, 'Iphone_14'),
+       (100, 'Iphone_13'),
+       (100, 'Iphone_12'),
+       (100, 'Iphone_11'),
+       (100, 'Iphone_10'),
+       (100, 'Iphone_9'),
+       (100, 'Iphone_8'),
+       (100, 'Iphone_7'),
+       (100, 'Iphone_6'),
+       (100, 'Iphone_5'),
+       (100, 'Iphone_4'),
+       (100, 'Iphone_3'),
+       (100, 'Iphone_2'),
+       (100, 'Iphone_1');
